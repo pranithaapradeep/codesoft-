@@ -1,28 +1,47 @@
 
-Objective
+Task 1: Number Guessing Game
 
-To build a simple console-based number guessing game in Java that helps beginners understand core programming concepts such as loops, conditionals, user input, and random number generation.
+Objective:
+Create a number guessing game where the user guesses a randomly generated number.
+
+Description:
+The system generates a random number between 1 and 100. The user guesses the number, and the system gives feedback (too high, too low, or correct). The game continues until the user guesses correctly, with attempts tracked.
+
+Conclusion:
+The project demonstrates random number generation, user input handling, and conditional logic, providing an interactive and fun user experience.
+
+---
+
+Task 2: Student Grade Calculator
+
+Objective:
+Create a system to calculate total marks, average percentage, and assign grades to students.
+
+Description:
+The user inputs marks for each subject, and the system calculates total marks and average percentage. A grade is assigned based on the average percentage, with feedback provided.
+
+Conclusion:
+This project automates grade calculation and offers a useful tool for academic performance management.
 
 ---
 
-Overview
+Task 3: ATM Interface
 
-This project is a text-based number guessing game where the user attempts to guess a randomly generated number within a given range and a limited number of attempts. The game provides hints and allows for multiple rounds with score tracking.
+Objective:
+Simulate an ATM system allowing users to check balance, deposit, and withdraw funds.
 
----
+Description:
+The ATM interface allows users to check balance, deposit money, and withdraw funds, with validation for sufficient balance and correct input.
 
-Description
-
-* The game generates a random number between 1 and 100.
-* The user has a limited number of attempts (e.g., 5) to guess the correct number.
-* After each guess, feedback is provided: "Too high", "Too low", or "Correct".
-* The game allows for multiple rounds, asking the user if they want to play again.
-* The user’s score increases with each round they win.
-* This project is great for beginners to practice using loops, conditional statements, and handling user input in Java.
+Conclusion:
+The project simulates basic banking operations and demonstrates object-oriented programming concepts in a practical setting.
 
 ---
+
+
+
 
 Submitted by
 Pranithaa pradeep
 codsoft
-task1
+
